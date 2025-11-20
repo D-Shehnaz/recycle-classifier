@@ -2,7 +2,7 @@
 
 A **deep learning project** to classify images of objects as **recyclable** or **non-recyclable** using TensorFlow and Keras.  
 
-This repository includes scripts for generating synthetic datasets, downloading datasets from Kaggle, training models, and predicting new images.  
+This repository includes scripts for generating synthetic datasets, downloading datasets from Kaggle, training models, and predicting new images.
 
 ---
 
@@ -43,4 +43,4 @@ This repository includes scripts for generating synthetic datasets, downloading 
 Install dependencies:
 
 ```bash
-pip install tensorflow numpy matplotlib pillow
+pip install -r requirements.txt
